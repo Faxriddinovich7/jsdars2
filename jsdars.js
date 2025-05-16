@@ -87,3 +87,55 @@
 // }else {
 //     console.log("san chetdan kelgan xarpsan")
 // }
+
+// let b=0
+// for (let i = 1; i <= 10; i+=2) {
+//     b = b + i
+// }
+// console.log(b)
+
+
+
+
+// for (let i = 1; i <= 100; i++) {
+//     console.log(i)
+// }
+
+// let a = prompt("1kgdan 10kgram gacha konfetni kg kriting")*1
+// let b = 10000
+//     alert(`${a*b} som!`)
+
+// let a = prompt("1kgdan 10kgram gacha konfetni kg kriting")*1
+// for (let i = 0.1; i <= a; i++) {
+//     console.log(i.toFixed(1) + "kg narx")
+// }
+
+// let a = 3
+// let b = 7
+// let c = 0
+// for (let i = a; i <= b; i++ ) {
+//     c += i
+// }
+// console.log( "{Yig'indisi: ${c}")
+
+// let b = 1
+// let  birinchji = 2
+// let ikkinchi = 5
+// for (let a = birinchi; a <= ikkinchi; a++) {
+//   b *=a
+// }
+// console.log(b)
+
+// for (let a = 1; a <= 100; a++) {
+//     if (a % 3 === 0) {
+//         console.log("fizz")
+//     }else if (a % 5 === 0) {
+//         console.log("buzz")
+//     }else{
+//         console.log("fizzbuzz")
+//     }
+// }
+
+
+
+
